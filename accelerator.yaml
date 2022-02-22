@@ -1,6 +1,7 @@
 accelerator:
-  displayName: C# Azure REST app-service
-  description: A ready to publish to Azure REST app-service. Comes with BDD out of the box!
+  displayName: C# Azure Messaging Service Bus 
+  description: A ready to publish to Azure REST app-service. Comes with BDD out of the box! 
+  https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
   iconUrl: https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png
   tags:
   - dotnet
