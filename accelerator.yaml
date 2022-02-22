@@ -1,6 +1,6 @@
 accelerator:
-  displayName: C# Azure REST Service
-  description: A ready to publish to Azure REST service. Comes with BDD out of the box!
+  displayName: C# Azure REST app-service
+  description: A ready to publish to Azure REST app-service. Comes with BDD out of the box!
   iconUrl: https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png
   tags:
   - dotnet
