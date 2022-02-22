@@ -1,4 +1,4 @@
-# C# Sample Accelerator
+# Azure Messaging Service Bus C# 
 
 A sample accelerator for C#.
 
