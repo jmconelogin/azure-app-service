@@ -1,5 +1,5 @@
 accelerator:
-  displayName: C# Azure Messaging Service Bus 
+  displayName: CVS C# Azure Messaging Service Bus 
   description: A ready to publish to Azure REST app-service integrated with Azure Messaging Service Bus. Comes with BDD!
   https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azuremessagingservicebus-samples/
   iconUrl: https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png
