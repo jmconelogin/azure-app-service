@@ -6,7 +6,7 @@ accelerator:
   tags:
   - dotnet
   - C#
-  - tanzu
+  - retail
   options:
   - name: applicationName
     label: Application Name
